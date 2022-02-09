@@ -17,6 +17,7 @@ gem 'moonwalk', '~> 0.1.1'
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.15.0'
   gem 'rouge', '~> 3.23'
+  gem 'jekyll-seo-tag', '~> 2.8'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

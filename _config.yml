@@ -23,8 +23,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
    👋 I'm Olivia...
 
-baseurl: "/olivialschmidt"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "olivialschmidt"
+url: "olivialschmidt.github.io" 
 twitter_username: OliviaLSchmidt
 
 # Build settings

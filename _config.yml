@@ -23,8 +23,8 @@ email: livialschmidt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    👋 I'm Olivia...
 
-baseurl: "/olivialschmidt"
-url: "olivialschmidt.github.io" 
+baseurl: /olivialschmidt
+url: https://olivialschmidt.github.io
 twitter_username: OliviaLSchmidt
 
 # Build settings

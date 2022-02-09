@@ -28,7 +28,7 @@ url: https://olivialschmidt.github.io
 twitter_username: OliviaLSchmidt
 
 # Build settings
-theme: moonwalk
+remote_theme: moonwalk
 plugins:
   - jekyll-feed
 
